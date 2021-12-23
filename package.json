@@ -4,7 +4,7 @@
   "license": "MIT",
   "author": "Anish Prashun <anishprashun118@gmail.com",
   "engines": {
-    "node": ">=10"
+    "node": ">=14"
   },
   "main": "template.json",
   "description": "A youtube tutorial for CRA Template",
